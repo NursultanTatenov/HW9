@@ -12,6 +12,8 @@ public class Main {
         getArrayJupSan(array);
         System.out.println();
 
+        System.out.println();
+
         }
 
 
