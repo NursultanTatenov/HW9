@@ -10,6 +10,7 @@ public class Main {
         getArray(array);
         getArray2(array);
         getArrayJupSan(array);
+        System.out.println();
 
         }
 
